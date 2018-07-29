@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-    echo "SAKIT DI PHP in"
+    echo "SAKIT DI PHP in";
      ?>
   </body>
 </html>
